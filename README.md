@@ -4,11 +4,15 @@ SIMP: A Simulator for Interactive Market Phenomena studies
 
 # SIMP: A Simulator for Interactive Market Phenomena
 
-[![Sample Price Simulation](Example_Output/Sample_Graph.png)](Example_Output/Sample_Graph.png)
+
+### Overview 
+[![SIMP Poster](Example_Output/SIMP_post_Image.png)](Example_Output/SIMP_post_Image.png)
 
 [![SIMP Poster](Example_Output/POSTER__ICLR_2025__SIMP__A_Simulator_for_Interactive_Market_Phenomena_studies.pdf)](Example_Output/POSTER__ICLR_2025__SIMP__A_Simulator_for_Interactive_Market_Phenomena_studies.pdf)
 
-[![SIMP Poster](Example_Output/SIMP_post_Image.png)](Example_Output/SIMP_post_Image.png)
+### Exmaple Output (Expected upon first run)
+[![Sample Price Simulation](Example_Output/Sample_Graph.png)](Example_Output/Sample_Graph.png)
+
 
 
 ## Introduction
