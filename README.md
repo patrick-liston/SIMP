@@ -8,6 +8,9 @@ SIMP: A Simulator for Interactive Market Phenomena studies
 
 [![SIMP Poster](Example_Output/POSTER__ICLR_2025__SIMP__A_Simulator_for_Interactive_Market_Phenomena_studies.pdf)](Example_Output/POSTER__ICLR_2025__SIMP__A_Simulator_for_Interactive_Market_Phenomena_studies.pdf)
 
+[![SIMP Poster](Example_Output/SIMP_post_Image.png)](Example_Output/SIMP_post_Image.png)
+
+
 ## Introduction
 
 SIMP (A Simulator for Interactive Market Phenomena) is a novel hybrid financial market simulator developed by Patrick Liston, Charles Gretton, and Artem Lensky at The Australian National University. This simulator aims to bridge the gap between traditional simulators and real-world market dynamics by integrating historical Limit Order Book (LOB) and trade data with synthetic trading agents.
@@ -105,10 +108,10 @@ end
 
 
 ### Citing this Work
-@inproceedings{liston2025simp,
+```@inproceedings{liston2025simp,
   title={SIMP: A Simulator for Interactive Market Phenomena},
   author={Liston, Patrick and Gretton, Charles and Lensky, Artem},
   booktitle={ICLR, Advances in Financial AI 2025},
   year={2025},
   address={Singapore}
-}
+}```
